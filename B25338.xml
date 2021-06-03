@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The patient royal traveller, or, The wonderful escapes of His Sacred Majesty King Charles the Second from Worcester-Fight and his making a hollow oke his royall pallace ... : to the tune of Chivy Chase, or, God prosper long our noble king / by Henry Jones of Oxford.</title>
+            <author>Jones, Henry, of Oxford.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25338</idno><idno type="EEBO-CITATION">31355686</idno>
+  <idno type="VID">173691</idno>
+  <idno type="EEBO-PROQUEST">2240896072</idno>
+  
+            <idno type="STC">Wing J945</idno>
+            <idno type="STC">ESTC R235022</idno>
+            <idno type="OCLC">31355686</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25338)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173691)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1741:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The patient royal traveller, or, The wonderful escapes of His Sacred Majesty King Charles the Second from Worcester-Fight and his making a hollow oke his royall pallace ... : to the tune of Chivy Chase, or, God prosper long our noble king / by Henry Jones of Oxford.</title>
+                  <author>Jones, Henry, of Oxford.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Authour,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: cropped and stained.</note>
+                  <note>Originally printed as one sheet, bound as two leaves.</note>
+                  <note>Contains four woodcut illustrations.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Poetry.</term>
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:173691:1"/>
+            <head>The Royal Patient Traveller▪ OR, The wonderful Escapes of His Sacred Majesty King CHARLES the Se<g ref="char:EOLhyphen"/>cond from Worcester-Fight; And his making a Hollow Oke his Roy<g ref="char:EOLhyphen"/>all Pallace. The going in a Livery Cloak with Mis. Lane. And the Discourse between the Kings Majesty, and the Cook-maid im<g ref="char:EOLhyphen"/>ploying the King to wind up the Jack; but being not used to do it, did wind it up the wrong way.</head>
+            <opener>To the tune of, <hi>Chivy Chase,</hi> Or, <hi>God prosper long our Noble King</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>depiction of disguised person on horseback (Charles II?)</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of lady (Jane Lane?)</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>GOd hath preserved our Royal King</l>
+               <l>the second of that name,</l>
+               <l>And those that will not pray for him,</l>
+               <l>indéed they are too blame:</l>
+               <l>For thousands have against him spoke,</l>
+               <l>but I shall it disclaim,</l>
+               <l>And with all others have a care</l>
+               <l>how they should do the same,</l>
+               <l>
+                  <hi>David</hi> we read had enemies</l>
+               <l>that did him sore annoy,</l>
+               <l>So <hi>CHARLES the Second</hi> had the same,</l>
+               <l>who is fair <hi>Englands</hi> joy.</l>
+               <l>In <hi>May</hi> it was the twenty nine,</l>
+               <l>King <hi>Charles</hi> of high Renown.</l>
+               <l>Being his birth-day (as 'tis known)</l>
+               <l>to <hi>London</hi> came to town.</l>
+               <l>But had you séen the tryumph made,</l>
+               <l>And Bonfires flaming high.</l>
+               <l>and all the people for to cry</l>
+               <l>God save his Majesty.</l>
+               <l>I will rejoyce at his happiness,</l>
+               <l>and pray he long may reign,</l>
+               <l>And of some passages he had</l>
+               <l>with honest Mistris <hi>Lane,</hi>
+               </l>
+               <l>From <hi>Scotland</hi> he to <hi>Worcester came</hi>
+               </l>
+               <l>though friends did look about,</l>
+               <l>Yet <hi>Cromwel</hi> came with a mighty Force</l>
+               <l>and did give him the Rout.</l>
+               <l>A journey lone I am sure he had</l>
+               <l>with frinds the loving <hi>Scot,</hi>
+               </l>
+               <l>King <hi>Charles</hi> mounting himself so brave,</l>
+               <l>three times his Horse was shot.</l>
+               <l>The King did therefore for his safety,</l>
+               <l>make friends to have some pitty,</l>
+               <l>For so our Saviour he doth say</l>
+               <l>as I write in this Ditty:</l>
+               <l>If persecution being great,</l>
+               <l>of such then have a care,</l>
+               <l>So at that time 'tis very true</l>
+               <l>one did cut off his Hair.</l>
+               <l>His Princely cloaths he off did strip,</l>
+               <l>and did himself disguise,</l>
+               <l>So of King <hi>Alfred</hi> I have read,</l>
+               <l>that was a Prince most wise.</l>
+               <l>A Chain of gold that he had then,</l>
+               <l>worth hundreds without doubt</l>
+               <l>He gave away unto a friend,</l>
+               <l>who lead him there about,</l>
+               <l>Into a wood where Inns was none</l>
+               <l>nor Lodgings there bespoke,</l>
+               <l>The best of Lodgings he could get,</l>
+               <l>was in a hollow Oke.</l>
+               <l>O happy Oke (saith Mistris <hi>Lane,</hi>
+               </l>
+               <l>that ever I did sée,</l>
+               <l>A Pallace for a Prince thou wast</l>
+               <l>but he will go with me.</l>
+            </lg>
+            <pb facs="tcp:173691:1"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of King Charles II with royalist guard</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>HEr Serving-man King <hi>Charles</hi> be<g ref="char:EOLhyphen"/>came</l>
+               <l>For so he thought it best.</l>
+               <l>And she to frée him from his foes.</l>
+               <l>Did travel towards the West.</l>
+               <l>For all the Land was up in Arms</l>
+               <l>in City and in Town.</l>
+               <l>And for King <hi>Charles</hi> to find him out,</l>
+               <l>it was a thousand pound.</l>
+               <l>But Mistris <hi>Lane</hi> vertuous and wise,</l>
+               <l>so much did understand,</l>
+               <l>What woful hunting they did make,</l>
+               <l>for <hi>Charles</hi> of fair <hi>England.</hi>
+               </l>
+               <l>Tor through a town they then must pass,</l>
+               <l>for there was no back Lane</l>
+               <l>The Horses héels then up did trip,</l>
+               <l>and down fell man and Dame.</l>
+               <l>The Souldiers séeing of the same,</l>
+               <l>at them did laugh and jéer,</l>
+               <l>And she suspition for to shun,</l>
+               <l>struck him a Box on the Ear.</l>
+               <l>With angry words she séemed to speak,</l>
+               <l>I think I am well mann'd,</l>
+               <l>For such another I am sure</l>
+               <l>is not within the Land,</l>
+               <l>To second it her brother in Law</l>
+               <l>so much in anger spoke,</l>
+               <l>Well, must my Father then said he</l>
+               <l>carry your mans Cloak,</l>
+               <l>It was too heavy then (said she)</l>
+               <l>what néed you be so cross</l>
+               <l>The burthen off it was so great</l>
+               <l>it threw us off the horse.</l>
+               <l>Her nimble tongue and wit in prime,</l>
+               <l>and being a Lady gay,</l>
+               <l>The Souldiers laughing at them then</l>
+               <l>did let them pass their way,</l>
+               <l>God fréed them from their Enemies</l>
+               <l>For with him there is pitty,</l>
+               <l>At the thrée Crowns King <hi>Charles</hi> then lay</l>
+               <l>which is in <hi>Bristow</hi> City,</l>
+               <l>For in the Kitchin he was plac'd</l>
+               <l>by his most loving friend,</l>
+               <l>And modestly he there did stand,</l>
+               <l>fearing he should offend,</l>
+               <l>It made the Kitchin-maid much muse,</l>
+               <l>she could not understand,</l>
+               <l>That in the Kitchin by her stood</l>
+               <l>King <hi>Charles</hi> of fair <hi>England.</hi>
+               </l>
+               <l>For being by the fire-side,</l>
+               <l>She asked what Country man,</l>
+               <l>At <hi>Brumingham</hi> the King replyed</l>
+               <l>and a Naylors son.</l>
+               <l>With bobs and spéeches for some Sluts,</l>
+               <l>in words they are not slack,</l>
+               <l>At her command King <hi>Charles</hi> must be</l>
+               <l>for to wind up the Iack.</l>
+               <l>Though mildly he did take this task,</l>
+               <l>it séems he did want skill,</l>
+               <l>The wrong way he did go about</l>
+               <l>and did do it some ill:</l>
+               <l>Great Clownish booby she him calls</l>
+               <l>yet he was méek and mild,</l>
+               <l>And though she us'd such taunting words</l>
+               <l>He at her did but smile,</l>
+               <l>He venters to another house,</l>
+               <l>Where people came so thick.</l>
+               <l>That all the day his Chamber kept.</l>
+               <l>as if he had béen sick.</l>
+               <l>But comming down one night indéed,</l>
+               <l>he spyed a servant <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id,</l>
+               <l>And for a glass of Wine he craves,</l>
+               <l>because he was a cold.</l>
+               <l>The Butler quickly him descri<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>and knew he was the King,</l>
+               <l>With hat in hand thus did he say,</l>
+               <l>you may have any thing.</l>
+               <l>So easily his Majesty,</l>
+               <l>although in cloth so plain,</l>
+               <l>No notice of his words he takes,</l>
+               <l>to his Chamber goes again,</l>
+               <l>The Butler being not satisfi'd,</l>
+               <l>with courage spake he can,</l>
+               <l>Of master <hi>Lastel</hi> he must know</l>
+               <l>how long he had that man.</l>
+               <l>And whispering he told him then,</l>
+               <l>I know it is my Liege,</l>
+               <l>And do not do him any wrong,</l>
+               <l>I do you now beséech.</l>
+               <l>Designs still failing, yet no dobut,</l>
+               <l>to God he still doth yéeld,</l>
+               <l>And to a trusty friend he went,</l>
+               <l>that then was in the field.</l>
+               <l>And for thrée wéeks the King conceal<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>and then did back return,</l>
+               <l>And for a time he made a stay,</l>
+               <l>it séems in fair <hi>London:</hi>
+               </l>
+               <l>Where he beheld such things as was</l>
+               <l>sad to his tender heart,</l>
+               <l>Some grief at that time did he féel,</l>
+               <l>from <hi>London</hi> did he part.</l>
+               <l>A Master of a Ship at last</l>
+               <l>it seems was a good man,</l>
+               <l>D<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Hoise up sail,</l>
+               <l>and so to <hi>France,</hi> as I do understand.</l>
+            </lg>
+            <byline>By <hi>Henry Jones</hi> of <hi>Oxford:</hi>
+            </byline>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for the Authour▪</p>
+         </div>
+      </back>
+   </text>
+</TEI>
